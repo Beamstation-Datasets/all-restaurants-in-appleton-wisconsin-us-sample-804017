@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Local dining market data for Appleton in the Upper Midwest. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Appleton, Wisconsin, US",
+  "export_job_id": "43e9aa28-b7ef-4baf-9a16-229bb5e55387",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 804017,
+  "location_name": "Appleton",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-appleton-wisconsin-us-sample-804017",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/804017/beamstation_804017_restaurants-us-wi_SAMPLE_DIST.csv",
+  "sample_pct": 9.64,
+  "sample_records": 16,
+  "sample_sha256": "96df900eeda72284c6c44c0e3dd54ae5116349970c2bc42739c0233c1d2b7060",
+  "sample_size_bytes": 77121,
+  "total_records": 166,
+  "updated_at": "2026-03-31T15:43:02.349007+00:00"
+}
